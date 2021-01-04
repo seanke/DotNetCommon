@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeanKe.DotNetCommon", "SeanKe.DotNetCommon\SeanKe.DotNetCommon.csproj", "{BC022861-9E0F-477D-9D0C-0DA7CBC5F09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeanKe.DotNetCommonTests", "SeanKe.DotNetCommonTests\SeanKe.DotNetCommonTests.csproj", "{96FBB7B3-FD25-4F37-BB3B-7C3E00D68218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC022861-9E0F-477D-9D0C-0DA7CBC5F09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC022861-9E0F-477D-9D0C-0DA7CBC5F09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC022861-9E0F-477D-9D0C-0DA7CBC5F09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC022861-9E0F-477D-9D0C-0DA7CBC5F09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FBB7B3-FD25-4F37-BB3B-7C3E00D68218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FBB7B3-FD25-4F37-BB3B-7C3E00D68218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FBB7B3-FD25-4F37-BB3B-7C3E00D68218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FBB7B3-FD25-4F37-BB3B-7C3E00D68218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

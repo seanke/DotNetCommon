@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net5.0;netstandard2.0;netstandard2.1</TargetFrameworks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageProjectUrl>https://github.com/seanke/DotNetCommon</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/seanke/DotNetCommon/blob/main/LICENSE</PackageLicenseUrl>
+        <Title>SeanKe.DotNetCommon</Title>
+        <Authors>Sean Kelly</Authors>
+        <Company>SeanKe</Company>
+    </PropertyGroup>
+
+</Project>
